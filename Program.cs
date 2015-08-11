@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello mate,im here just to try jenkins");
+            Console.WriteLine("Hello mate,im here just to try jenkins")
             justPrint();
             justTakeInt(858);
 
